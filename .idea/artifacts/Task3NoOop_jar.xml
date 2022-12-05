@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Task3NoOop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Task3NoOop_jar</output-path>
+    <root id="archive" name="Task3NoOop.jar">
+      <element id="module-output" name="Task3NoOop" />
+    </root>
+  </artifact>
+</component>
